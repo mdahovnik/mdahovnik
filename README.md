@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 
 ### Дополнительно:
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat-square) 
-![Core Web Vitals](https://img.shields.io/badge/-Core_Web_Vitals-4285F4?logo=google&logoColor=white&style=flat-square) 
 ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-0099CC?logo=css3&logoColor=white&style=flat-square)
 
 ---
