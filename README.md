@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat-square)
 
-### Моя статистика:
+### Моя статистика :
 <!--[![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdahovnik&layout=compact&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdahovnik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdahovnik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+[![codewars](https://www.codewars.com/users/mdahovnik/badges/small)](https://www.codewars.com/users/mdahovnik) 
 
 ---
 ## 📫 Контакты
