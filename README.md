@@ -1,58 +1,131 @@
-<!--
-**mdahovnik/mdahovnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Привет! 👋 Меня зовут Максим
 
-Я Front-end разработчик. Ищу возможности для профессионального роста и готов вносить вклад в создание современных веб-приложений. У меня есть опыт работы с современными технологиями и инструментами, которые помогают создавать удобные, красивые и эффективные интерфейсы.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Front-end+Developer;React+%26+TypeScript+Enthusiast;Creating+amazing+user+experiences" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdahovnik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
 
-## 🛠️ Технологии и навыки:
+## 🛠️ Технологический стек
 
-### Front-end:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=fore-the-badge) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) 
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square) 
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square) 
-![REST API](https://img.shields.io/badge/-REST_API-02569B?logo=postman&logoColor=white&style=flat-square)
+### Frontend
 
-### Тестирование:
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Моя статистика :
-<!--[![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdahovnik&layout=compact&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdahovnik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![codewars](https://www.codewars.com/users/mdahovnik/badges/small)](https://www.codewars.com/users/mdahovnik) 
+### Testing & Quality
+
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
+
+### Tools & Libraries
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
+
+## 📊 Статистика GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdahovnik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahovnik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdahovnik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🚀 Ключевые проекты
+
+### 🌟 [Pomogi Lichno Frontend](https://github.com/mdahovnik/Pomogi_lichno_frontend)
+
+**Благотворительная платформа** - Next.js приложение с App Router и FSD-архитектурой
+
+- 🛠️ **Стек**: Next.js 15, React 19, TypeScript, SCSS, Radix UI
+- 🎯 **Особенности**: FSD-архитектура, Yandex Maps, Embla Carousel, Docker
+- 📱 **Функции**: Витрина историй семей, блог, формы помощи, платежная интеграция
+
+
+### 🎨 [Altiora](https://github.com/mdahovnik/Altiora)
+
+**Веб-приложение** с современным подходом к разработке
+
+- 🛠️ **Стек**: Next.js, TypeScript, Husky, ESLint, Prettier
+- 🎯 **Особенности**: Автоматизация, качество кода, переменные окружения
+
+---
+
+## 🎯 О себе
+
+> **Front-end разработчик** с фокусом на создание современных, производительных и удобных веб-приложений.
+
+### 💡 Что я делаю:
+
+- 🔧 Разрабатываю **React/Next.js** приложения с TypeScript
+- 🎨 Создаю **отзывчивые интерфейсы** с современным дизайном
+- 🏗️ Применяю **FSD-архитектуру** для масштабируемых проектов
+- 🧪 Пишу **тесты** для обеспечения качества кода
+
+### 🌱 Что изучаю:
+
+- **Advanced React patterns** и оптимизация производительности
+- **Micro-frontends** и модульная архитектура
+- **AI/ML** интеграция в веб-приложения
+
+---
+
+## 🏆 Достижения
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdahovnik&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📫 Контакты
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:dahovnikm@yandex.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat-square)](https://t.me/mdahovnik)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/mdahovnik)
+
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/mdahovnik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/mdahovnik">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-## 🌟 О себе
-
-Люблю решать сложные задачи, превращая их в простые и понятные решения. Вдохновляюсь современными технологиями, стремлюсь к созданию приложений, которые делают жизнь пользователей проще и главное - получаю от этого огромное удовольствие.
+## 💼 Готов к сотрудничеству!
 
 С нетерпением жду возможности работать над интересными проектами вместе с талантливыми людьми!
+
+**Локация**: 🇷🇺 Россия, Калининград  
+**Время**: UTC +02:00
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
