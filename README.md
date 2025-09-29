@@ -96,7 +96,7 @@
 ## 🏆 Достижения
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdahovnik&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdahovnik&title=-Stars,-Followers&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
