@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Front-end+Developer;React+%26+TypeScript+Enthusiast;Creating+amazing+user+experiences" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdahovnik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
 ---
 
 ## 🛠️ Технологический стек
@@ -126,6 +122,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdahovnik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
