@@ -39,67 +39,56 @@
 
 ## 📊 Статистика GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdahovnik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahovnik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdahovnik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align=" start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahovnik&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdahovnik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 🚀 Ключевые проекты
+##  Ключевые проекты
 
-### 🌟 [Pomogi Lichno Frontend](https://github.com/mdahovnik/Pomogi_lichno_frontend)
+### 💡 [Pomogi Lichno Frontend](https://github.com/mdahovnik/Pomogi_lichno_frontend)
 
 **Благотворительная платформа** - Next.js приложение с App Router и FSD-архитектурой
 
-- 🛠️ **Стек**: Next.js 15, React 19, TypeScript, CSS, SCSS, Radix UI
-- 🎯 **Особенности**: FSD-архитектура, Yandex Maps, Embla Carousel, Docker
-- 📱 **Функции**: Витрина историй семей, блог, формы помощи, платежная интеграция
+-  **Стек**: Next.js 15, React 19, TypeScript, CSS, SCSS, Radix UI
+-  **Особенности**: FSD-архитектура, Yandex Maps, Embla Carousel, Docker
+-  **Функции**: Витрина историй семей, блог, формы помощи, платежная интеграция
 
 
-### 🎨 [Altiora](https://github.com/mdahovnik/Altiora)
+### 💡 [Altiora](https://github.com/mdahovnik/Altiora)
 
 **Веб-приложение** с современным подходом к разработке
 
-- 🛠️ **Стек**: Next.js, TypeScript, Husky, CSS, SCSS, ESLint, Prettier
-- 🎯 **Особенности**: Автоматизация, качество кода, переменные окружения
+-  **Стек**: Next.js, TypeScript, Husky, CSS, SCSS, ESLint, Prettier
+-  **Особенности**: Автоматизация, качество кода, переменные окружения
 
 ---
 
-## 🎯 О себе
+##  О себе
 
 > **Front-end разработчик** с фокусом на создание современных, производительных и удобных веб-приложений.
 
-### 💡 Что я делаю:
+###  Что я делаю:
 
-- 🔧 Разрабатываю **React/Next.js** приложения с TypeScript
-- 🎨 Создаю **отзывчивые интерфейсы** с современным дизайном
-- 🏗️ Применяю **FSD-архитектуру** для масштабируемых проектов
-- 🧪 Пишу **тесты** для обеспечения качества кода
+-  Разрабатываю **React/Next.js** приложения с TypeScript
+-  Создаю **отзывчивые интерфейсы** с современным дизайном
+-  Применяю **FSD-архитектуру** для масштабируемых проектов
+-  Пишу **тесты** для обеспечения качества кода
 
-### 🌱 Что изучаю:
+###  Что изучаю:
 
 - **Advanced React patterns** и оптимизация производительности
 - **Micro-frontends** и модульная архитектура
 - **AI/ML** интеграция в веб-приложения
 
----
-
-## 🏆 Достижения
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdahovnik&title=-Stars,-Followers&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
-</div>
 
 ---
 
 ## 📫 Контакты
 
-<div align="center">
+<div align="start">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
