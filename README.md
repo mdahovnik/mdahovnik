@@ -46,7 +46,7 @@
 
 ---
 
-##  Ключевые проекты
+##  Проекты
 
 ### 💡 [Pomogi Lichno Frontend](https://github.com/mdahovnik/Pomogi_lichno_frontend)
 
