@@ -42,7 +42,7 @@
 
 ##  Проекты
 
-### 💡 [Pomogi Lichno Frontend](https://github.com/mdahovnik/Pomogi_lichno_frontend)
+### 💡 [Pomogi Lichno](https://github.com/mdahovnik/Pomogi_lichno_frontend)
 
 **Благотворительная платформа** - Next.js приложение с App Router и FSD-архитектурой
 
